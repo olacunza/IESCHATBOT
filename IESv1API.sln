@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IESv1API", "IESv1API\IESv1API.csproj", "{D717C187-7EB8-46C2-BD7F-66627C764729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D717C187-7EB8-46C2-BD7F-66627C764729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D717C187-7EB8-46C2-BD7F-66627C764729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D717C187-7EB8-46C2-BD7F-66627C764729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D717C187-7EB8-46C2-BD7F-66627C764729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF4064D2-D6D0-4E93-8DB8-FD9B045325C6}
+	EndGlobalSection
+EndGlobal
